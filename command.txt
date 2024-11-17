@@ -1,0 +1,13 @@
+1) npx create-expo-app@latest .
+   or
+   npx create-expo-app@latest counterApp
+
+2) npm run reset-project
+
+   then change name 
+		app-> _layout.tsx to _layout.jsx
+		app->index.tsx to index.jsx
+
+3)npx expo start
+
+https://docs.expo.dev/tutorial/create-your-first-app/
